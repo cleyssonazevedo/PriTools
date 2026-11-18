@@ -45,4 +45,4 @@ For more sample code, see the [PriInfo project](PriInfo/Program.cs).
 
 Apache 2.0, see LICENSE.
 
-XBF2 decompilation code is originally based on the implementation by [misenhower](https://github.com/misenhower/XbfAnalyzer).
+XBF2 decompilation code is originally based on the implementation by [misenhower](https://github.com/misenhower/XbfAnalyzer)
